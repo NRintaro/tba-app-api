@@ -1,3 +1,10 @@
+
+# 土佐ビジネスアカデミー Nextremer API Server
+# 土佐ビジネスアカデミー Nextremer API Server
+# 土佐ビジネスアカデミー Nextremer API Server
+# 土佐ビジネスアカデミー Nextremer API Server
+# 土佐ビジネスアカデミー Nextremer API Server
+# 土佐ビジネスアカデミー Nextremer API Server
 # 土佐ビジネスアカデミー Nextremer API Server
 
 位置情報アプリのサービス用Web APIを提供するための、Ruby on Rails製のアプリケーション。
